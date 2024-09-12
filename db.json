@@ -1,0 +1,86 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "model": "ATC-HZ5510C-C",
+      "type": "zoomblock",
+      "image": "images/ATC-HZ5510C.png",
+      "description": "10x camera"
+    },
+    {
+      "id": "2",
+      "model": "ATC-HZ5512W-U",
+      "type": "zoomblock",
+      "image": "images/ATC-HZ5512W.png",
+      "description": "12x camera"
+    },
+    {
+      "id": "3",
+      "model": "ATC-HZ5530T-LP",
+      "type": "zoomblock",
+      "image": "images/ATC-HZ5530T.png",
+      "description": "30x camera"
+    },
+    {
+      "id": "4",
+      "model": "ATC-HZ7810C-L",
+      "type": "zoomblock",
+      "image": "images/ATC-HZ7810C.png",
+      "description": "10x camera"
+    },
+    {
+      "id": "184b",
+      "model": "asdasdf",
+      "type": "",
+      "image": "asdfasdf",
+      "description": "asdfasdf"
+    },
+    {
+      "id": "5fb4",
+      "model": "asdfa",
+      "type": "board-camera",
+      "image": "asdf",
+      "description": "asdf"
+    },
+    {
+      "id": "36ce",
+      "model": "",
+      "type": "",
+      "image": "",
+      "description": ""
+    },
+    {
+      "id": "d580",
+      "model": "",
+      "type": "",
+      "image": "",
+      "description": ""
+    }
+  ],
+  "contacts": [
+    {
+      "id": "1",
+      "name": "John",
+      "email": "john123@gmail.com",
+      "message": "help with react"
+    },
+    {
+      "id": "2",
+      "name": "Joe",
+      "email": "joe345@hotmail.com",
+      "message": "are you alive?"
+    },
+    {
+      "id": "e89f",
+      "name": "asdfasdf",
+      "email": "asdf@gmail.com",
+      "message": "asdfasdfaasdf"
+    },
+    {
+      "id": "aa62",
+      "name": "asfasd",
+      "email": "asdf@gmail.com",
+      "message": "asdfasdf"
+    }
+  ]
+}
